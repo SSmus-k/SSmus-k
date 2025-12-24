@@ -26,7 +26,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssmus-k&theme=dracula" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ssmus-k&show_icons=true&theme=dracula" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ssmus-k&theme=dracula" />
 </p>
 
 ---
