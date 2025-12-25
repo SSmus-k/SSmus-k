@@ -32,7 +32,7 @@
   />
   <br/>
   <img
-    src="https://streak-stats.demolab.com?user=ssmus-k&theme=dracula&hide_border=true"
+    src="[https://streak-stats.demolab.com?user=ssmus-k&theme=dracula&hide_border=true](https://streak-stats.demolab.com?user=ssmus-k)"
     width="420"
   />
 </p>
