@@ -26,9 +26,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ssmus-k)
-  ![Streak](https://streak-stats.demolab.com?user=ssmus-k)
-
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ssmus-k&show_icons=true&theme=dracula"
+    width="420"
+  />
+  <br/>
+  <img
+    src="https://streak-stats.demolab.com?user=ssmus-k&theme=dracula&hide_border=true"
+    width="420"
+  />
 </p>
 
 ---
