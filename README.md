@@ -79,6 +79,29 @@
 </picture>
 
 ---
+## 🧩 Experience | Hackathons & Competitions
+
+### 🚀 Hackathon Participant
+**Multiple National & Online Hackathons**  
+*Role:* Backend Developer · System Designer  
+
+- Designed and implemented core backend logic under strict time constraints  
+- Worked on AI-driven systems including **fake news detection**, **regulatory automation**, and **decision-support tools**  
+- Collaborated in cross-functional teams (frontend, backend, ML) using Git & GitHub workflows  
+- Translated problem statements into scalable technical solutions within 24–48 hour sprints  
+- Focused on real-world impact, feasibility, and explainability rather than demo-only ideas  
+
+**Key Skills Applied:**  
+`Backend Architecture` · `API Design` · `AI/ML Logic` · `System Thinking` · `Rapid Prototyping` · `Team Collaboration`
+
+---
+
+### 🏆 Notable Projects from Hackathons
+- **RegulAI** – AI system that converts complex regulations into actionable steps for SMEs  
+- **Fake News Detection System** – Multi-layer credibility scoring using source analysis and content signals  
+
+> *Hackathons taught me how to think clearly under pressure, build fast without cutting logic,  
+and explain complex systems to both judges and non-technical audiences.*
 
 <p align="center">
   🚀 Always learning • Always building • Always improving
