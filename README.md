@@ -41,6 +41,8 @@
   🐍 Consistent contributor • 🚀 Backend focused • 🌱 Always learning
 </p>
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SSmus-k&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SSmus-k&theme=dracula" />
