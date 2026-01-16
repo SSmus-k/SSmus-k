@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujan Bhusal</h1>
+<h1 align="center">Hi 👋, Myself Sujan Bhusal</h1>
 
 <h3 align="center">
   Full-Stack Developer | Django & Python Enthusiast | Nepal 🇳🇵
