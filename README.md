@@ -31,12 +31,15 @@
 
 ---
 
-📊 GitHub Activity
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.png?username=ssmus-k&theme=dracula" alt="GitHub Profile Details" /> </p> <p align="center"> 🐍 Consistent contributor • 🚀 Backend focused • 🌱 Always learning </p>
+## 📊 GitHub Stats
 
-📊 GitHub Stats
-
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.png?username=ssmus-k&theme=dracula" alt="Repos per Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.png?username=ssmus-k&theme=dracula" alt="Most Commit Language" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssmus-k&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmus-k&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssmus-k&theme=dracula" alt="GitHub Activity Graph" />
+</p>
 
 
 
